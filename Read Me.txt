@@ -1,0 +1,28 @@
+step 1:
+open folder "Sql Query"
+open "SMS_Query_001"
+read the instruction there
+
+step 2:
+open "SMS.sln" file
+the goto "Solution explorer" in your visual studio
+open the form named "Main_Form.cs"
+right click on the form and select "view code" or simply press f7 key on your keyboard
+
+step 3:
+in the code view you will find this code
+
+//following code will set Connection String for all forms
+        public static string SqlConnectString()
+        {
+            string conString = "Data Source=.;Initial Catalog=sms;Persist Security Info=True;User ID=sa;Password=izhan";
+            return conString;
+        }
+
+
+change the "conString" as your database
+
+
+done...! 
+run application and give feedback to
+izhan.yameen25@gmail.com

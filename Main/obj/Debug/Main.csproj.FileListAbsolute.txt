@@ -1,0 +1,53 @@
+C:\Users\zed\Documents\Visual Studio 2013\Projects\SMS\Main\bin\Debug\Main.exe.config
+C:\Users\zed\Documents\Visual Studio 2013\Projects\SMS\Main\bin\Debug\Main.exe
+C:\Users\zed\Documents\Visual Studio 2013\Projects\SMS\Main\bin\Debug\Main.pdb
+C:\Users\zed\Documents\Visual Studio 2013\Projects\SMS\Main\bin\Debug\FeeManagement.exe
+C:\Users\zed\Documents\Visual Studio 2013\Projects\SMS\Main\bin\Debug\staffManagement.exe
+C:\Users\zed\Documents\Visual Studio 2013\Projects\SMS\Main\bin\Debug\Student.exe
+C:\Users\zed\Documents\Visual Studio 2013\Projects\SMS\Main\bin\Debug\Teacher.exe
+C:\Users\zed\Documents\Visual Studio 2013\Projects\SMS\Main\bin\Debug\FeeManagement.pdb
+C:\Users\zed\Documents\Visual Studio 2013\Projects\SMS\Main\bin\Debug\staffManagement.pdb
+C:\Users\zed\Documents\Visual Studio 2013\Projects\SMS\Main\bin\Debug\Student.pdb
+C:\Users\zed\Documents\Visual Studio 2013\Projects\SMS\Main\bin\Debug\Teacher.pdb
+C:\Users\zed\Documents\Visual Studio 2013\Projects\SMS\Main\obj\Debug\Main.csprojResolveAssemblyReference.cache
+C:\Users\zed\Documents\Visual Studio 2013\Projects\SMS\Main\obj\Debug\Main.Main_Form.resources
+C:\Users\zed\Documents\Visual Studio 2013\Projects\SMS\Main\obj\Debug\Main.Properties.Resources.resources
+C:\Users\zed\Documents\Visual Studio 2013\Projects\SMS\Main\obj\Debug\Main.csproj.GenerateResource.Cache
+C:\Users\zed\Documents\Visual Studio 2013\Projects\SMS\Main\obj\Debug\Main.exe
+C:\Users\zed\Documents\Visual Studio 2013\Projects\SMS\Main\obj\Debug\Main.pdb
+D:\Documents\Visual Studio 2013\Projects\SMS\Main\bin\Debug\Main.exe.config
+D:\Documents\Visual Studio 2013\Projects\SMS\Main\obj\Debug\Main.exe
+D:\Documents\Visual Studio 2013\Projects\SMS\Main\obj\Debug\Main.pdb
+D:\Documents\Visual Studio 2013\Projects\SMS\Main\bin\Debug\Main.exe
+D:\Documents\Visual Studio 2013\Projects\SMS\Main\bin\Debug\Main.pdb
+D:\Documents\Visual Studio 2013\Projects\SMS\Main\obj\Debug\Main.Main_Form.resources
+D:\Documents\Visual Studio 2013\Projects\SMS\Main\obj\Debug\Main.Properties.Resources.resources
+D:\Documents\Visual Studio 2013\Projects\SMS\Main\obj\Debug\Main.csproj.GenerateResource.Cache
+D:\Documents\Visual Studio 2013\Projects\SMS\Main\bin\Debug\Bunifu_UI_v1.5.3.dll
+D:\Documents\Visual Studio 2013\Projects\SMS\Main\obj\Debug\Main.Admin.resources
+D:\Documents\Visual Studio 2013\Projects\SMS\Main\obj\Debug\Main.FeeManagement.resources
+D:\Documents\Visual Studio 2013\Projects\SMS\Main\obj\Debug\Main.StaffManagement.resources
+D:\Documents\Visual Studio 2013\Projects\SMS\Main\obj\Debug\Main.Teacher.resources
+D:\Documents\Visual Studio 2013\Projects\SMS\Main\obj\Debug\Main.Student.resources
+D:\Documents\Visual Studio 2013\Projects\SMS\Main\obj\Debug\Main.StudentManagement.resources
+D:\Documents\Visual Studio 2013\Projects\SMS\Main\obj\Debug\Main.forgotPassword.resources
+D:\Documents\Visual Studio 2013\Projects\SMS\Main\obj\Debug\Main.AboutMe.resources
+D:\Documents\Visual Studio 2013\Projects\SMS\Main\obj\Debug\Main.csprojResolveAssemblyReference.cache
+D:\Documents\Desktop Applications\C-Sharp\Projects\SMS\Main\bin\Debug\Main.exe.config
+D:\Documents\Desktop Applications\C-Sharp\Projects\SMS\Main\obj\Debug\Main.exe
+D:\Documents\Desktop Applications\C-Sharp\Projects\SMS\Main\obj\Debug\Main.pdb
+D:\Documents\Desktop Applications\C-Sharp\Projects\SMS\Main\bin\Debug\Main.exe
+D:\Documents\Desktop Applications\C-Sharp\Projects\SMS\Main\bin\Debug\Main.pdb
+D:\Documents\Desktop Applications\C-Sharp\Projects\SMS\Main\bin\Debug\Bunifu_UI_v1.5.3.dll
+D:\Documents\Desktop Applications\C-Sharp\Projects\SMS\Main\obj\Debug\Main.csprojResolveAssemblyReference.cache
+D:\Documents\Desktop Applications\C-Sharp\Projects\SMS\Main\obj\Debug\Main.AboutMe.resources
+D:\Documents\Desktop Applications\C-Sharp\Projects\SMS\Main\obj\Debug\Main.Admin.resources
+D:\Documents\Desktop Applications\C-Sharp\Projects\SMS\Main\obj\Debug\Main.FeeManagement.resources
+D:\Documents\Desktop Applications\C-Sharp\Projects\SMS\Main\obj\Debug\Main.forgotPassword.resources
+D:\Documents\Desktop Applications\C-Sharp\Projects\SMS\Main\obj\Debug\Main.Main_Form.resources
+D:\Documents\Desktop Applications\C-Sharp\Projects\SMS\Main\obj\Debug\Main.Properties.Resources.resources
+D:\Documents\Desktop Applications\C-Sharp\Projects\SMS\Main\obj\Debug\Main.StaffManagement.resources
+D:\Documents\Desktop Applications\C-Sharp\Projects\SMS\Main\obj\Debug\Main.Student.resources
+D:\Documents\Desktop Applications\C-Sharp\Projects\SMS\Main\obj\Debug\Main.StudentManagement.resources
+D:\Documents\Desktop Applications\C-Sharp\Projects\SMS\Main\obj\Debug\Main.Teacher.resources
+D:\Documents\Desktop Applications\C-Sharp\Projects\SMS\Main\obj\Debug\Main.csproj.GenerateResource.Cache

@@ -1,0 +1,19 @@
+
+ex1	Error 001 ( Can't save values in Database )
+ex2	Error 002 (Can't Update values in Database)
+	Error 003 ( Can't read the id number of <id>  )
+ex3 	Error 004 ( Can't Fetch the id number of " + Emp_Id + ")
+	Error 005 (Can't read the id number of " + TM_Remove_SelectId.SelectedItem.ToString() + " FOR REMOVE)
+ex4	Error 006 ( Can't Fetch the id number of " + TM_Remove_SelectId.SelectedItem.ToString() + " FOR REMOVE)
+ex5	Error 007 (Can't Delete values from Database)
+	Error 008 , Can't toggle the comboBox
+	Error 009 ( Can't read the teacher's id from Staff Management )
+	Error 010 , Can't toggle the subject comboBox
+ex6	Error 012 ,in autofilling the id comboBox
+ex7	Error 013 , cant search
+ex8 	Error 014 , cant search
+ex9	Error 015, can't load the class and batch
+ex10	picture box
+ex11	Error cant find result
+ex12	Error cant find result
+ex13	Error
